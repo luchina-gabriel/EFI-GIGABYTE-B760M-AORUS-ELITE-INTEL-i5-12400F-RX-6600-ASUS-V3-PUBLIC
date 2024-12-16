@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760M Aorus Elite DDR5, Intel Core i5 12400F, AMD Radeon RX 6600 [Asus V3 Dual Fan]
 
+![Overview](https://github.com/user-attachments/assets/d77fdfab-5095-43fd-9e06-345a6fe8d7f0)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
